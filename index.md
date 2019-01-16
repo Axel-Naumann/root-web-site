@@ -13,3 +13,6 @@ Start from examples or try it in your browser!
 
 [Start from examples](https://root.cern/doc/master/group__Tutorials.html)
 
+{% for file in site.static_files %}
+   {{ file.path }}
+{% endfor %}
