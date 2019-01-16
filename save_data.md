@@ -8,8 +8,8 @@ You can save your data (and any C++ object) in a compressed binary form in a ROO
 file. A special description of the object format is also saved in the same file,
 so that it is possible to automatically generate the code for the C++ classes
 corresponding to all objects saved in the file. ROOT provides a tree-like data
-structure that is extremely powerful for fast access of huge amounts of data - orders
-of magnitude faster than accessing a normal file. ROOT files can have a
+structure that is extremely powerful for fast access of huge amounts of data
+- orders of magnitude faster than accessing a normal file. ROOT files can have a
 sub-structure: they can contain directories.
 
 # The Safest Way to Save your Data
