@@ -16,10 +16,10 @@
 title: ROOT Web Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ROOT is a modular scientific software toolkit. It provides all the functionalities 
-  needed to deal with big data processing, statistical analysis, visualisation 
+  ROOT is a modular scientific software toolkit. It provides all the functionalities
+  needed to deal with big data processing, statistical analysis, visualisation
   and storage. It is mainly written in C++ but integrated with other languages such as Python and R.
-baseurl: "root-web-site" # the subpath of your site, e.g. /blog
+baseurl: "/root-web-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
