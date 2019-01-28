@@ -8,16 +8,16 @@ layout: home
 <table style="border: none;">
    <tr style="border: none;">
       <td align="center" valign="top" style="border: none;">
-         <img src="img/PH-ROOT-icons-4.png" width="80">
+         <img src="assets/images/PH-ROOT-icons-4.png" width="80">
       </td>
       <td align="center" valign="top" style="border: none;">
-         <a href="https://root.cern/doc/master/index.html"><img src="PH-ROOT-icons-3.png" width="80"></a>
+         <a href="https://root.cern/doc/master/index.html"><img src="assets/images/PH-ROOT-icons-3.png" width="80"></a>
       </td>
       <td align="center" valign="top" style="border: none;">
-         <a href="https://root-forum.cern.ch"><img src="PH-ROOT-icons-5.png" width="80"></a>
+         <a href="https://root-forum.cern.ch"><img src="assets/images/PH-ROOT-icons-5.png" width="80"></a>
       </td>
       <td align="center" valign="top" style="border: none;">
-         <img src="PH-ROOT-icons-9.png" width="80">
+         <img src="assets/images/PH-ROOT-icons-9.png" width="80">
       </td>
    </tr>
    <tr style="border: none;">
@@ -43,4 +43,3 @@ It is mainly written in C++ but integrated with other languages such as Python a
 Start from examples or try it in your browser!
 
 [Start from examples](https://root.cern/doc/master/group__Tutorials.html)
-
