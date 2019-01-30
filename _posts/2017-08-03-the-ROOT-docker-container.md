@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The ROOT Docker container (alpha version)"
+excerpt: Do you like Docker? Would you like to use ROOT? We provide an alpha version of the ROOT
 author: Axel Naumann
 ---
-
 
 We traditionally offer several ways of using ROOT: source distributions for the
 users to compile on their systems, binary distributions for most popular platforms,

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ROOT Users' Workshop 2018"
+excerpt: The ROOT team would like to invite you to the 11th ROOT Users' Workshop.
 author: Axel Naumann
 ---
 
