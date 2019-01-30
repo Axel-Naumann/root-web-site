@@ -4,9 +4,10 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
+    {% capture banner %}/assets/images/website-banner.png {% endcapture %}
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-    <img style="height:75px" alt="Logo" src="assets/images/website-banner.png"/>
+    <img style="height:75px" alt="Logo" src="{{ banner  | prepend: site.baseurl | prepend: site.url }}"/>
     </a>
 
     {%- if page_paths -%}
