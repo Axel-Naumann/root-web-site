@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Save Data
-permalink: /about/save_data/
+permalink: /about/save_data
 ---
 
 You can save your data (and any C++ object) in a compressed binary form in a ROOT
