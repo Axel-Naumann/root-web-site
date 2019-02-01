@@ -5,10 +5,12 @@
 layout: home
 ---
 
+
 <table style="border: none;">
    <tr style="border: none;">
       <td align="center" valign="top" style="border: none;">
-         <img src="assets/images/PH-ROOT-icons-4.png" width="80">
+         <a href="{{ "getting_started" | relative_url }}">
+         <img src="assets/images/PH-ROOT-icons-4.png" width="80"></a>
       </td>
       <td align="center" valign="top" style="border: none;">
          <a href="https://root.cern/doc/master/index.html"><img src="assets/images/PH-ROOT-icons-3.png" width="80"></a>
@@ -35,6 +37,7 @@ layout: home
       </td>
    </tr>
 </table>
+
 
 ## ROOT is ...
 A modular scientific software toolkit. It provides all the functionalities needed
