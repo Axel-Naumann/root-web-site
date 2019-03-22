@@ -1,48 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+cover: true
+image: /assets/img/hydejack-8.png
+hide_description: true
 ---
 
+# Thank You
+Thank you for buying the PRO version of Hydejack! 🎉
 
-<table style="border: none;">
-   <tr style="border: none;">
-      <td align="center" valign="top" style="border: none;">
-         <a href="{{ "getting_started" | relative_url }}">
-         <img src="assets/images/PH-ROOT-icons-4.png" width="80"></a>
-      </td>
-      <td align="center" valign="top" style="border: none;">
-         <a href="https://root.cern/doc/master/index.html"><img src="assets/images/PH-ROOT-icons-3.png" width="80"></a>
-      </td>
-      <td align="center" valign="top" style="border: none;">
-         <a href="https://root-forum.cern.ch"><img src="assets/images/PH-ROOT-icons-5.png" width="80"></a>
-      </td>
-      <td align="center" valign="top" style="border: none;">
-         <img src="assets/images/PH-ROOT-icons-9.png" width="80">
-      </td>
-   </tr>
-   <tr style="border: none;">
-      <td bgcolor="#FFFFFF" align="center" valign="bottom" width="25%" style="border: none;">
-         <b>Getting Started</b>
-      </td>
-      <td bgcolor="#FFFFFF" align="center" valign="top" width="25%" style="border: none;">
-         <b>Reference Guide</b>
-      </td>
-      <td bgcolor="#FFFFFF" align="center" valign="top" width="25%" style="border: none;">
-         <b>Forum</b>
-      </td>
-      <td bgcolor="#FFFFFF" align="center" valign="top" width="25%" style="border: none;">
-         <b>Gallery</b>
-      </td>
-   </tr>
-</table>
+More than one year ago I was looking for a blogging platform but couldn't find it:
+One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
+That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
+## First Steps
+Please start by reading the [Documentation]{:.heading.flip-title}.
+Specifically, the chapters below should be relevant now:
 
-## ROOT is ...
-A modular scientific software toolkit. It provides all the functionalities needed
-to deal with big data processing, statistical analysis, visualisation and storage.
-It is mainly written in C++ but integrated with other languages such as Python and R.
-Start from examples or try it in your browser!
+* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
+{:.related-posts.faded}
 
-[Start from examples](https://root.cern/doc/master/group__Tutorials.html)
+[documentation]: docs/README.md
+[install]: docs/install.md
+[upgrade]: docs/upgrade.md
+[config]: docs/config.md
