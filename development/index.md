@@ -27,3 +27,4 @@ developers and for people who want to contribute to the ROOT system.
   - [Shifter's Instructions](shifters_instructions)
   - [Browse Sources](https://github.com/root-project/root)
   - [Meetings](meetings)
+  - [Coding Conventions](coding_conventions)
