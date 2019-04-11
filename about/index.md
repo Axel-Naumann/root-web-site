@@ -34,3 +34,9 @@ to run at full speed. In both cases, you can also create a graphical user interf
 
   - Use ROOT within other languages ROOT provides a set of bindings in order to seamlessly
 integrate with existing languages such as Python, R and Mathematica.
+
+<hr>
+
+  - [License](license)
+  - [Contact Us](contact_us)
+  - [Project Founders](project_founders)
