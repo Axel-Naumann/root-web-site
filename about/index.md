@@ -40,3 +40,5 @@ integrate with existing languages such as Python, R and Mathematica.
   - [License](license)
   - [Contact Us](contact_us)
   - [Project Founders](project_founders)
+  - [Team](team)
+  - [Previous Developers](previous_developers)

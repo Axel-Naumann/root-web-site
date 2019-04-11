@@ -3,7 +3,7 @@ title: Project Founders
 ---
 
 ### René Brun
-<img src="{{'/assets/img/rene_brun.JPG' | relative_url}}">
+<img src="{{'/assets/img/RB.jpg' | relative_url}}">
 René, a lifetime developer of ROOT. He joined CERN in 1973. While working with C.
 Rubbia at the ISR he developed the HBOOK package still in use today. In 1975 he
 followed Rubbia in the NA4 deep inelastic muon scattering experiment at the SPS
@@ -18,7 +18,7 @@ created the ROOT system while working for the NA49 heavy ion experiment at the S
 René has led the ROOT project from 1995-2010.
 
 ### Fons Rademakers
-<img src="{{'/assets/img/rdm2-mac.png' | relative_url}}">
+<img src="{{'/assets/img/FR.png' | relative_url}}">
 Fons received his Ph.D. in particle physics from the Univ. of Amsterdam in 1991
 for his work on event displays and data analysis for the DELPHI experiment at CERN's
 LEP collider. Since then he has worked at CERN and been involved in designing and
